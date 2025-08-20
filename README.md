@@ -1,4 +1,5 @@
 [![Github All Releases](https://img.shields.io/github/downloads/DaRealAal/HangGame-Project/total.svg)]()
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/DaRealAal/HangGame-Project/total)
 
 # Hangman game
 ### How to play this game
